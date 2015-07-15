@@ -1,0 +1,26 @@
+## HEADING 1 ##
+
+:: Heading 2 ::
+
+** HEADING 3**
+
+Written by Mr & Mrs Example <email@example.com>
+
+http://www.domain.com/
+
+!! Important stuff !!
+
+---------------------------------------------------
+Comment something....
+---------------------------------------------------
+
+BUGS ARE IMPORTANT.
+
+>>
+Do not format
+
+!! Nooez !!
+
+http://www.example.com/
+
+<<
